@@ -1,0 +1,14 @@
+{
+    "totalFacilities": 2438,
+    "totalCountries": 6,
+    "topCountry": "Colombia",
+    "avgPerCountry": 406,
+    "facilitiesPerCountry": {
+        "Colombia": 905,
+        "Venezuela": 670,
+        "Trinidad and Tobago": 291,
+        "Costa Rica": 253,
+        "Uruguay": 187,
+        "Panama": 132
+    }
+}
